@@ -31,6 +31,4 @@ Olá! Eu sou Daniel Cipriano 🖐️
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
 <br>
 
-![Snake animation](https://github.com/Danielciprianomussenoho/Danielciprianomussenoho/blog/output/github-contribution-grid-snake.svg)
-
 Apaixonado por tecnologias. educação e por mudar a vida das pessoas através da programação.
