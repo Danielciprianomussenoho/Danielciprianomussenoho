@@ -1,6 +1,7 @@
 Olá! Eu sou Daniel Cipriano 🖐️
 - 🔭 Hoje trabalho como front-end
 - 🌱 Estudando nextJs
+- 🌱 Estudando Typescript
 
 <br>
 <div>
