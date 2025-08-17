@@ -1,8 +1,5 @@
 Olá! Eu sou Daniel Cipriano 🖐️
-- 🔭 Hoje trabalho como front-end
-- 🌱 Estudando nextJs
-- 🌱 Estudando Typescript
-
+- 🔭 Hoje trabalho como front-end e fullstack
 <br>
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Danielciprianomussenoho&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true">
